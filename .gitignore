@@ -1,0 +1,17 @@
+CMakeFiles/
+CMakeCache.txt
+*.o
+code
+*.out
+*.exe
+*.dSYM/
+*.so
+*.a
+*.dylib
+build/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
